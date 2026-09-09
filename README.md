@@ -2,9 +2,16 @@
 
 Handwired mini keyboard ZMK with split space bar an encoder.
 
+![plate](/assets/IMG_2719.png)
+
+![plate](/assets/IMG_2716.png)
+
+![plate](/assets/IMG_2717.png)
+
 # BOM 
 
 Part | Count
+-|-
 ProMicro nrf5 clone | 1
 M2 Screw | 5
 M2 Screw Heat Inserts | 5 
@@ -23,5 +30,8 @@ Size (U) | Count
 1.75 | 2
 2    | 1
 2.25 | 1
+
+
+
 
 
